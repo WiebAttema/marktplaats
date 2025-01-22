@@ -1,0 +1,29 @@
+HP Z600 Workstation (WD059AV) hexa core + 2x Xeon X5670 (24x2.93 GHz) + 96GiB DDR3 ECC 1600 MHz
+
+Vraagprijs: 400 euro (zonder geheugen en zonder PA716A adapter is de prijs 225 euro)
+
+Werkt met Hackintosh, Linux en Windows.
+
+Totaal drie stuks beschikmaar, mogelijkheid tot storage en/of virtualisatie cluster.
+
+SYS: Hewlett-Packard HP Z600 Workstation (WD059AV) (CZC13377GZ) Mini Tower Computer (dual CPU 6-core moederboard model)
+CPU: 2X Intel(R) Xeon(R) CPU X5670 @ 2.93GHz (12M Cache, 2.93 GHz, 6.40 GT/s Intel® QPI) (totaal 24 cores)
+RAM: 6x 16GiB DIMM DDR3 Synchronous Registered (Buffered) 1600 MHz (0.6 ns) (9965516-115.A00LF)
+VIDEO: disabled in BIOS configuration can boot without GPU
+RAID: Intel Corporation 82801JI (ICH10 Family) 2+4 port SATA
+HDD: 2x SFF SAS/SATA HDD Bays (Empty Caddy Trays) (ik heb een optie voor twee 5.2" naar 3,5" bays, dus toaal 4x SATA 3,5" HDDs)
+NIC: 1x NetXtreme BCM5764M Gigabit Ethernet PCIe [14e4:1684] (rev 10) (ik heb een optie voor 1Gbit en 10Gbit ethernet controllers)
+DVD: HP DCDDVDW TS-H653T
+1394: FireWire (IEEE 1394) [0c00]: LSI Corporation FW322/323 [TrueFire] 1394a Controller [11c1:5811] (rev 70)
+LOM: PA716A HP Serial Port Adapter voor Z600 (Werkt met Linux voor serial management/zonder GPU)
+
+OS: Debian GNU/Linux 10 (buster) x86_64
+Host: HP Z600 Workstation
+Kernel: 4.19.0-18-amd64
+Uptime: 8 mins
+Packages: 386 (dpkg)
+Shell: bash 5.0.3
+CPU: Intel Xeon X5670 (24) @ 2.927GHz
+Memory: 299MiB / 96660MiB
+
+Ophalen of verzenden. Verzendkosten zijn niet bij prijs inbegrepen. Voor vragen kunt u altijd een berichtje sturen via marktplaats of kunt u bellen via het aangegeven telefoonnummer.
